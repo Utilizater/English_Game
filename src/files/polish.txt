@@ -1,0 +1,47 @@
+zero:0:1
+jeden:1:1
+dwa:2:1
+trzy:3:1
+cztery:4:1
+piec:5:1
+szesc:6:1
+siedem:7:1
+osiem:8:1
+dziewiec:9:1
+dziesiec:10:1
+mna:мной:1
+toby:тобой:1
+nia:ей:1
+nim:им:1
+nami:нами:1
+nimi:ими:1
+studiuje:я учусь:1
+dzwonie:я звоню:1
+mieszkam:я живу:1
+studiujesz:ты учишься:1
+dzwonisz:ты звонишь:1
+mieszkasz:ты живешь:1
+studiuje:он, она, оно учится:1
+dzwoni:он, она, оно звонит:1
+mieszka:он, она, оно живет:1
+studiujemy:мы учимся:1
+dzwonimy:мы звоним:1
+mieszkamy:мы живем:1
+studiujecie:вы учитесь:1
+dzwonicie:вы звоните:1
+mieszkacie:вы живете:1
+studiuja:они учаться:1
+dzwonia:они звонят:1
+mieszkaja:они живут:1
+studiwac:учиться:1
+dzwonic:звонить:1
+mieszkac:жить:1
+owac, ac:группа 1:1
+ic, ec, yc:группа 2:1
+ac:группа 3:1
+kupilem:я купил:1
+kupiles:ты купил:1
+kupil:он купил:1
+kupilismy:мы купили:1
+kupiliscie:вы купили:1
+kupili:они купили:1

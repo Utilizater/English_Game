@@ -1,0 +1,161 @@
+maintain:поддерживать:1
+breach:нарушение:1
+regarding:относительно:1
+engagement:обязательство:1
+required:требовать:1
+estimate:оценка:1
+investigation:исследвание (расследование):1
+approach:подход:1
+kick off:стартовать:1
+basically:в основном:1
+measurement:изменение:1
+handling:обработка:1
+legacy:наследие:1
+environment:окружающая среда:1
+participation:участие:1
+expanded:расширенный:1
+entitlement:право:1
+regarding:относительно:1
+proposed:предложенный:1
+condition:состояние:1
+verify:проверить:1
+appropriate:соотвутствующий:1
+proper:надлежащий:1
+performed:выполненный:1
+vacation:отпуск:1
+demain:завтрашний день:1
+intended:предназначенный:1
+remaining:оставшиеся:1
+populate:заполнить:1
+modest:скромный, сдержанный:2
+unfaithful:вероломный:2
+miserable:жалкий, несчастный:2
+considerate:внимательный к другим:2
+arrange:страивать, организовывать, подготавливать:2
+trustworthy:заслуживающий доверия; надёжный:2
+thoughtless:безрассудный:2
+persuade:убеждать:4
+charity:благотворительность:4
+reunite:воссоединяться:4
+spokesperson:представитель:4
+relative:родственник:4
+impolite:невежливый:4
+accusation:обвинение:4
+wag:махать:4
+tick:галочка:4
+have a row:поссориться:4
+put someone at ease:успокоить (calm dow):4
+appropriate:подходящий, соответствующий:4
+awkward:неловкий:4
+put your foot in it:ляпнуть не к месту:4
+entertaining:увлекательная:4
+hit it off:подружиться:4
+equality:равенство:4
+comparison:сравнение:4
+obesity:ожирение:4
+gesture:жест:4
+inconvinient:неудобный:4
+line:очередь:4
+offensive:оскорбительный:4
+confidence:уверенность:4
+impolite:невежливый:4
+auxiliary:вспомогательный глагол:4
+ancestry:предок:4
+tribe:племя:4
+gather:собирать:4
+obtain:получать, приобретать:4
+root:болеть за кого-то:4
+whistle:свистеть:4
+acceptable:приемлимо:4
+essential:важный:4
+ravine:ущелье, овраг:4
+preserve:сохранять (консерванты - preservatives):4
+contribute:вносить вклад:4
+vowel:гласная:4
+consonant:согласная:4
+compulsory:обязательный:4
+extinct:вымиращий:4
+founder:основатель:4
+ban somebody from:запрещать кому-то что-то:4
+cross out:вычеркивать:4
+emoticon:смайлик:4
+handwriting:почерк:4
+handwritten:написанный от руки:4
+instant:мнгновенный:4
+in tray:ящик для входящих бумаг и письменной корреспонденции:4
+stationary:канцелярия:4
+neat:аккуратный, напиток безо льда:4
+on the rocks:со льдом:4
+efficiency:эффективность:4
+rise:подниматься, рост:4
+spring up:вырасти:4
+attempt:попытка:4
+annual:ежегодный:4
+correspondance:переписка:4
+appreciate:ценить:4
+abandon:забросить, оставить:4
+renewed:обновленный, свежий:4
+evidence:доказательства:4
+mention:упоминать:4
+revise:готовиться, повторять:4
+indigenous:местный, туземный:4
+isles:острова:4
+truly:по-настоящему:4
+rely on:рассчитывать, надеяться на:4
+disapprove of:неодобрять что-то:4
+look at:смотреть на:4
+brush up:освежить знания (в контексте языка или изучаемого навыка):4
+mild climate:мягкий климат:4
+occasion:случай:4
+take part in:учавствовать (в три слова):4
+participate:учавствовать (в одно слово):4
+rubber:стир. резинка (либо еще eraser):4
+slave:раб:4
+slavory:рабство:4
+stunning:великолепный, захватывающий:4
+rough it:жить без удобств:4
+remote:отдаленный:4
+appeal:привлекать:4
+wander:гулять, ходить, бродить:4
+tough:крепкий, жесткий:5
+chores:домашние дела:5
+paddle:грести:5
+poke:тыкать:5
+various:разнообразный:5
+encounter:встречать, натыкаться:5
+species:вид:5
+pineapple:анасас:5
+custom:обычай:5
+oar:весло:5
+rescue:спасать:5
+feat:подвиг:5
+tolerate:терпеть:5
+carpenter:плотник:5
+refer:ссылаться на:5
+crew:экипаж:5
+vanish:исчезать:5
+stare:уставиться, долго смотреть на что-то:5
+in a rush:в спешке:5
+muddy:грязный:5
+anxious:взволнованный:5
+delighted:довольный:5
+furious:в ярости:5
+miserable:несчастный:5
+petrified:окаменевший от страха:5
+puzzled:озадаченный:5
+relieved:чувствовать облегчение:5
+tense:напряженный:5
+terrified:в ужасе:5
+bitter:злой:5
+last:длиться:6
+enrich:обогатить:6
+rope:веревка:6
+spoilt:избалованный:6
+ensure:удостовериться:6
+particular:определенный:6
+artificial intelligence:исскуственный интеллект:6
+take for granted:брать за должное:6
+revive:восстановить, возродить:6
+fascinating:увлекательный:6
+proficient:умелый, опытный:6
+cease:перестать:6

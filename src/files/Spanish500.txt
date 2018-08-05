@@ -1,0 +1,455 @@
+gente:люди:1
+persona:человек:2
+hombre:мужчина:3
+marido:муж:4
+mujer:женщина, жена:5
+nino:ребенок:6
+muchacho:мальчик:7
+muchacha:девочка:8
+amigo:друг:9
+invitado:гость:10
+familia:семья:11
+padres:родители:12
+padre:отец:13
+madre:мать:14
+hijo:сын:15
+hija:дочь:16
+abuelo:бабушка:17
+abuela:бабушка:18
+suegro:тесть (свекор):19
+suegra:теща (свекровь):20
+tio:дядя:21
+tia:тетя:22
+hermano:брат:23
+hermana:сестра:24
+primoa:двоюродная сестра:25
+primo:двоюродный брат:26
+trabajo:работа:27
+maestro:учитель:28
+conductor:водитель:29
+obrero:рабочий:30
+ingeniero:инженер:31
+doctor:врач:32
+enfermera:медсестра:33
+vendedor:продавец:1
+contador:бухгалтер:2
+pintor:художник:3
+estudiante:студент:4
+pais:страна:5
+Rusia:Россия:6
+Espana:Испания:7
+animal:животное:8
+gato:кошка:9
+perro:собака:10
+pajaro:птица:11
+ciudad:город:12
+escuela:школа:13
+teatro:театр:14
+calle:улица:15
+plaza:площадь:16
+lugar:место:17
+casa:дом:18
+iglesia:церковь:19
+rio:река:20
+cafe:кафе:21
+hotel:гостиница:22
+jardin:сад:23
+parque:парк:24
+banco:банк:25
+parada:остановка:26
+cine:кинотеатр:27
+puente:мост:28
+interseccion:перекрёсток:29
+bosque:лес:30
+hospital:больница:31
+mercado:рынок:32
+policia:полиция:33
+estacion:станция, вокзал:2
+centro:центр:3
+tienda:магазин:4
+montana:гора:5
+apartamento:квартира:6
+cocina:кухня:7
+balcon:балкон:8
+cuarto de bano:ванная:9
+ducha:душ:10
+inodoro:туалет:11
+suelo:пол:12
+techo:потолок:13
+piso:этаж:14
+pasillo:коридор:15
+dormitorio:спальня:16
+sala de estar:зал:17
+puerta:дверь:18
+ventana:окно:19
+llave:ключ:20
+cama:кровать:21
+almohada:подушка:22
+mesa:стол:23
+silla:стул:24
+sillon:кресло:25
+nevera:холодильник:26
+sofa:диван:27
+espejo:зеркало:28
+comida:еда:29
+pan:хлеб:30
+mantequilla:масло:31
+queso:сыр:32
+salchichon:колбаса:33
+aceite:растительное масло:1
+pimienta:горький перец:2
+sal:соль:3
+baya:ягода:4
+miel:мёд:5
+mermelada:варенье:6
+seta:гриб:7
+cebolla:лук (репчатый):8
+banana:банан:9
+zanahoria:морковь:10
+pera:груша:11
+remolacha:свекла:12
+fruta:фрукты:13
+melon:дыня:14
+sandia:арбуз:15
+pastel:пирожное, пирожок:16
+tarta:торт:17
+chocolate:шоколад:18
+carne:мясо:19
+patatas:картофель:20
+ensalada:салат:21
+tomate:помидор:22
+pepino:огурец:23
+col:капуста:24
+gachas:каша:25
+sopa:суп:26
+bocadillo:бутерброд:27
+soda:газировка:28
+agua:вода:29
+cafe:кофе:30
+te:чай:31
+leche:молоко:32
+jugo:сок:33
+manzana:яблоко:1
+uvas:виноград:2
+naranja:апельсин:3
+pina:ананас:4
+albaricoque:абрикос:5
+azucar:сахар:6
+arroz:рис:7
+fideos:лапша:8
+res:говядина:9
+cerdo:свинина:10
+pollo:курица:11
+chuleta:котлета:12
+limon:лимон:13
+guisante:горох:14
+bollo:булочка:15
+pescado:рыба:16
+caramelo:конфета:17
+helado:мороженое:18
+nuez:орех:19
+huevo:яйцо:20
+melocoton:персик:21
+taza:чашка:22
+vaso:стакан:23
+plato:тарелка:24
+cuchara:ложка:25
+tenedor:вилка:26
+cuchillo:нож:27
+platillo:блюдце:28
+botella:бутылка:29
+servilleta:салфетка:30
+desayuno:завтрак:31
+almuerzo:обед:32
+cena:ужин:33
+avion:самолет:1
+coche:автомобиль:2
+tranvia:трамвай:3
+autobus:автобус:4
+tren:поезд:5
+bicicleta:велосипед:6
+tiempo:время:7
+ano:год:8
+semana:неделя:9
+hora:час:10
+minuto:минута:11
+ayer:вчера:12
+hoy:сегодня:13
+manana:завтра, утро:14
+fiesta:праздник; вечеринка:15
+vez:раз:16
+dia:день:17
+tarde:вечер:18
+noche:ночь:19
+lunes:понедельник:20
+martes:вторник:21
+miercoles:среда:22
+jueves:четверг:23
+viernes:пятница:24
+sabado:суббота:25
+domingo:воскресенье:26
+mes:месяц:27
+enero:январь:28
+febrero:февраль:29
+marzo:март:30
+abril:апрель:31
+mayo:май:32
+junio:июнь:33
+julio:июль:1
+agosto:август:2
+septiembre:сентябрь:3
+octubre:октябрь:4
+noviembre:ноябрь:5
+diciembre:декабрь:6
+primavera:весна:7
+verano:лето:8
+otono:осень:9
+invierno:зима:10
+nombre:имя, фамилия:11
+direccion:адрес:12
+numero:номер:13
+cumpleanos:день рождения:14
+casado:женатый:15
+casada:замужняя:16
+cosa:вещь:17
+pluma:ручка:18
+libro:книга:19
+ajedrez:шахматы:20
+telefono:телефон:21
+reloj:часы:22
+peine:расчёска:23
+televisor:телевизор:24
+plancha:утюг:25
+jabon:мыло:26
+radio:радио:27
+bolsa:сумка:28
+mapa:карта; открытка:29
+maleta:чемодан:30
+regalo:подарок:31
+camara:фотоаппарат; видеокамера:32
+reproductor de CD:CD-плейер:33
+ordenador:компьютер:1
+pelicula:фильм; плёнка:2
+flor:цветок:3
+florero:ваза:4
+cuadro:картина:5
+panuelo:носовой платок:6
+bola:мяч:7
+globo:воздушный шар(ик):8
+juguete:игрушка:9
+cuenta:счёт:10
+sobre:конверт:11
+papel:бумага:12
+periodico:газета:13
+carta:письмо:14
+billete:билет:15
+ropa:одежда:16
+zapatos:обувь:17
+abrigo:пальто:18
+vestido:платье:19
+camisa:рубашка:20
+falda:юбка:21
+guante:перчатка:22
+sombrero:шляпа:23
+chaqueta:пиджак, куртка:24
+bufanda:шарф:25
+calcetin:носок:26
+sueter:свитер:27
+camiseta:футболка:28
+corbata:галстук:29
+pantalones:брюки:30
+que:что, какой:31
+cual:какой:32
+quien:кто:33
+donde:где:1
+como:как:4
+por que:почему:5
+cuando:когда:6
+yo:я:7
+tu:ты:8
+el:он:9
+ella:она:10
+usted:Вы (ед.ч.):11
+ustes:Вы (мн.ч.):12
+nosotros:мы:13
+vosotros:вы:14
+ellos:они:15
+mi:мой:16
+tu:твой:17
+su:его, ее, их, Ваш:18
+nuestro:наш:19
+vuestro:ваш:20
+de:из; передает род. падеж:21
+a:к:22
+sobre:на:23
+debajo de:под:24
+detras de:позади:25
+con:с:26
+sin:без:27
+antes de:до, прежде:28
+despues de:после:29
+delante de:перед:30
+entre:между:31
+en:в:32
+cerca de:возле:33
+para:для:1
+uno:один:2
+dos:два:3
+tres:три:4
+cuatro:четыре:5
+cinco:пять:6
+seis:шесть:7
+siete:семь:8
+ocho:восемь:9
+nueve:девять:10
+diez:десять:11
+once:одиннадцать:12
+doce:двенадцать:13
+trece:тринадцать:14
+catorce:четырнадцать:15
+quince:пятнадцать:16
+dieciseis:шестнадцать:17
+diecisiete:семнадцать:18
+dieciocho:восемнадцать:19
+diecinueve:девятнадцать:20
+veinte:двадцать:21
+treinta:тридцать:22
+cuarenta:сорок:23
+cincuenta:пятьдесят:24
+sesenta:шестьдесят:25
+setenta:семьдесят:26
+ochenta:восемьдесят:27
+noventa:девяносто:28
+ciento:сто:29
+mil:тысяча:30
+viej:старый:31
+joven:молодой:32
+nuevo:новый:33
+grande:большой:1
+pequeno:маленький:2
+hambriento:голодный:3
+bueno:хороший:4
+malo:плохой:5
+bien:хорошо:6
+mal:плохо:7
+temprano:ранний:8
+tarde:поздний:9
+pasado:последний, прошлый:10
+proximo:следующий:11
+libre:свободный:12
+caliente:тёплый:13
+frio:холодный:14
+alto:высокий:15
+bajo:низкий:16
+largo:длинный, долгий:17
+corto:короткий:18
+facil:лёгкий, несложный:19
+dificil:тяжёлый, трудный:20
+ligero:легкий (по весу):21
+pesado:тяжелый (по весу):22
+oscuro:тёмный:23
+claro:светлый:24
+caro:дорогой:25
+barato:дешёвый:26
+a la izquierda:cлева:27
+a la derecha:справа:28
+correcto:правильный:29
+rapido:быстрый:30
+despacio:медленный:31
+suave:мягкий:32
+duro:твёрдый:33
+bonito:красивый:1
+atento:внимательный:2
+triste:печальный:3
+alegre:радостный:4
+feliz:счастливый:5
+listo:готовый:6
+enojado:сердитый:7
+principal:основной, главный:8
+negro:чёрный:9
+azul:голубой; синий:10
+marron:коричневый:11
+verde:зелёный:12
+gris:серый:13
+rojo:красный:14
+blanco:белый:15
+amarillo:жёлтый:16
+si:да:17
+no:нет; не:18
+este:этот:19
+ese:тот:20
+aquel:тот (дальше чем ese):21
+que:что (союз):22
+aqui:здесь:23
+alli:там:24
+ac:сюда:25
+alla:туда:26
+ahora:сейчас, теперь:27
+ya:уже:28
+todavia:еще:29
+mucho:много:30
+poco:мало:31
+muy:очень:32
+cada:каждый:33
+todos:все:1
+todo:всё:2
+tan:так:3
+y:и:4
+o:или:5
+pero:но:6
+porque:потому что, так как:7
+ser:быть, являться:8
+estar:быть, находиться, стоять:9
+tener:иметь:10
+poder:мочь:11
+deber:должен:12
+vivir:жить:13
+permanecer:оставаться, останавливаться:14
+venir:приходить, приезжать:15
+ir:идти, ехать:16
+ver:видеть:17
+sentar:сидеть:18
+decir:сказать:19
+hablar:разговаривать:20
+trabajar:работать:21
+romper:ломать:22
+hacer:делать:23
+enviar:посылать:24
+comprar:покупать:25
+nadar:плавать:26
+dormir:спать:27
+despertar:будить:28
+lavar:мыть, cтирать:29
+probar:пробовать:30
+encontrar:находить:31
+traer:приносить, привозить:32
+celebrar:праздновать:33
+sonreir:улыбаться:1
+llorar:плакать:2
+costar:стоить:3
+aprender:учиться:4
+ensenar:обучать:5
+escribir:писать:6
+cambiar:менять:7
+caer:падать:8
+escuchar:слушать:9
+mostrar:показывать:10
+ganar:побеждать:11
+pensar:думать:12
+cerrar:закрывать:13
+abrir:открывать:14
+saber:знать:15
+conocer:быть :16
+cantar:петь:17
+bailar:танцевать:18
+preguntar:спрашивать:19
+contestar:отвечать:20
+recoger:собирать:21
+amar:любить:22
+dibujar:рисовать:23
+elegir:выбирать:24
+querer:хотеть:25
+comer:кушать:26
+beber:пить:27
+dar:давать:28
+hornear:печь:29
