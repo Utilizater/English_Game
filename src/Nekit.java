@@ -6,9 +6,7 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.util.HashSet;
-import java.util.LinkedList;
-import java.util.Random;
+import java.util.*;
 
 
 /*
@@ -21,7 +19,7 @@ import java.util.Random;
 
 class Nekit extends JFrame {
 
-
+    HashMap<String, Integer> ReportMap = new HashMap<>();
 
     LinkedList<WordModel> list = new LinkedList<WordModel>(); // основной масив
 
@@ -48,9 +46,6 @@ class Nekit extends JFrame {
         this.block_number = block_number;
         this.behavior = behavior;
 
-        list = GetFullList();
-
-
 
         switch (behavior)
         {
@@ -63,7 +58,6 @@ class Nekit extends JFrame {
                 break;
 
         }
-
 
         okno1.setFont(new Font("Serif", Font.PLAIN, 30));
         countLabel1.setFont(new Font("Serif", Font.PLAIN, 30));
@@ -86,13 +80,6 @@ class Nekit extends JFrame {
 
         setVisible(true);
 
-///////////////////////////////////////////////////////////////////////////////////////////////////
-
-
-       //  list = GetListRegimOne(block_number, GetFullList());
-      //   list = GetRandomList(30, GetFullList());
-
-// pack();
 
         countLabel1.addKeyListener(new KeyListener() {
 
@@ -120,12 +107,9 @@ class Nekit extends JFrame {
 
         knopka1.addActionListener(new ActionListener() {
 
-// @Override
-
             public void actionPerformed(ActionEvent e) {
 
                 buttoncklick();
-
             }
         }
         );
@@ -224,6 +208,18 @@ class Nekit extends JFrame {
 
                     list.get(kursor).setid((byte) 3);
 
+                    ////////   set to report
+                    if (!ReportMap.containsKey(list.get(kursor).getEnglishWord()))
+                    {
+                        ReportMap.put(list.get(kursor).getEnglishWord(), 1);
+                       // System.out.println("Added word");
+                    }
+                    else
+                    {
+                      //  System.out.println("Повторно - " + list.get(kursor).getEnglishWord());
+                        ReportMap.put(list.get(kursor).getEnglishWord(), ReportMap.get(list.get(kursor).getEnglishWord())+1);
+                    }
+
 //okno1.setText("Ошибка");
 
                 }
@@ -239,8 +235,10 @@ class Nekit extends JFrame {
                 countLabel1.setText("");
 
                 if (list.size() == 0) {
+
+                    ReportPrint(ReportMap);
                     System.exit(0);
-                    ;
+
                 }
 
                 kursor = variant(list);
@@ -252,6 +250,7 @@ class Nekit extends JFrame {
                 break;
 
             default:
+
 
                 System.exit(1);
 
@@ -273,7 +272,6 @@ class Nekit extends JFrame {
 
             while ((sCurrentLine = br.readLine()) != null) {
                // System.out.println(sCurrentLine);
-                sCurrentLine.replaceAll("\uFEFF","");
                 tokens = sCurrentLine.split(":");
                 list.add(new WordModel(tokens[0], tokens[1], Integer.parseInt(tokens[2])));
 
@@ -319,5 +317,14 @@ class Nekit extends JFrame {
         }
 
         return GetRandomList;
+    }
+    void ReportPrint(HashMap<String, Integer> map)
+    {
+        System.out.println("-----------//Report//--------------");
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            String key = entry.getKey();
+            Object value = entry.getValue();
+            System.out.println(key+" - "+value);
+        }
     }
 }

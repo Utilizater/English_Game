@@ -149,8 +149,8 @@ terrified:в ужасе:5
 bitter:злой:5
 last:длиться:6
 enrich:обогатить:6
-rope:веревка:6
-spoilt:избалованный:6
+rope:веревка:7
+spoilt:избалованный:7
 ensure:удостовериться:6
 particular:определенный:6
 artificial intelligence:исскуственный интеллект:6
@@ -158,4 +158,4 @@ take for granted:брать за должное:6
 revive:восстановить, возродить:6
 fascinating:увлекательный:6
 proficient:умелый, опытный:6
-cease:перестать:6
+cease:перестать:7
